@@ -1,3 +1,3 @@
 1.what is version control system? is a program that is loaded into a computer to help a programmer or designer to monitor variables.
 Why is imporetn? It is important because the prograam keeps the original file and in the case of any mistake in the sub file can refer to the basic file that has not been modified nd also helps to alert any change in the file.
-Givan Example?
+Givan Example? give a se of commands by opening a folder and creating a specific folder and then selecting it and giving a set of cooands like git init,git add,git log..Etc
